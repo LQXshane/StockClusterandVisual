@@ -1,5 +1,5 @@
-###EC503 Learning from data final project
-####Clustering and Visualization of Stock Data
+### EC503 Learning from data final project
+#### Clustering and Visualization of Stock Data
 Ganyu Lian, Qiuxuan Lin and Aleena Polansky
 
 > Abstract
